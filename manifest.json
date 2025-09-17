@@ -1,0 +1,21 @@
+{
+  "name": "Mattress Price Calculator",
+  "short_name": "MattressCalc",
+  "start_url": "pricingwith90D.html",
+  "display": "standalone",
+  "background_color": "#e8f5e9",
+  "theme_color": "#2e7d32",
+  "description": "Calculate mattress prices for BareNature",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
